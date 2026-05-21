@@ -1,4 +1,4 @@
-# AI Behavioural Intrusion Detection Dashboard
+                                                     ## AI Behavioural Intrusion Detection Dashboard
 
 <p align="center">
   <img src="assets/image.png" alt="Dashboard Preview" width="900">
