@@ -1,0 +1,9 @@
+Model,SHAP_Image,Explanation
+Random Forest SMOTE,rf_smote_summary.png,Random Forest under SMOTE shows feature-level contributions learned from synthetically balanced attack traffic.
+Random Forest Undersampling,rf_under_summary.png,Random Forest under undersampling shows feature contributions learned from authentic balanced traffic observations.
+Logistic Regression SMOTE,lr_smote_summary.png,Logistic Regression under SMOTE demonstrates linear feature contribution patterns.
+Logistic Regression Undersampling,lr_under_summary.png,Logistic Regression under undersampling demonstrates interpretable linear decision behaviour on authentic traffic samples.
+CNN SMOTE,cnn_smote_summary.png,CNN under SMOTE shows non-linear feature attribution patterns learned from balanced traffic data.
+CNN Undersampling,cnn_under_summary.png,CNN under undersampling shows non-linear attribution patterns learned from authentic balanced traffic observations.
+Isolation Forest SMOTE,iso_smote_summary.png,Isolation Forest under SMOTE section is interpreted through anomaly score contribution behaviour.
+Isolation Forest Undersampling,iso_under_summary.png,Isolation Forest under undersampling is interpreted through anomaly score contribution behaviour.

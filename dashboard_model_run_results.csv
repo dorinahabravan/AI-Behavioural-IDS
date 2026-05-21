@@ -1,0 +1,5 @@
+Model,Flows Processed,Attacks Detected,Normal Flows,Attack Rate (%),Peak Traffic,Average Indicator,Execution Time (s),Accuracy,Precision,Recall,F1-Score
+Random Forest,200,11,189,5.5,64,100.0,105.93,N/A,N/A,N/A,N/A
+Logistic Regression,200,11,189,5.5,64,100.0,95.95,N/A,N/A,N/A,N/A
+Isolation Forest,200,49,151,24.5,64,100.0,127.81,N/A,N/A,N/A,N/A
+CNN,200,11,189,5.5,64,100.0,114.52,N/A,N/A,N/A,N/A
