@@ -1,7 +1,7 @@
 # AI Behavioural Intrusion Detection Dashboard
 
 <p align="center">
-  <img src="assets/dashboard_preview.png" alt="Dashboard Preview" width="900">
+  <img src="assets/image.png" alt="Dashboard Preview" width="900">
 </p>
 
 ---
